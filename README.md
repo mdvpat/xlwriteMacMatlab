@@ -12,3 +12,4 @@ To do so you need to go to System Preferences > International > Formats and clic
 This solution works under Windows.
 
 Test_xlwrite.m contains an example.
+Marin Deresco (2024). xlwrite : Export Data to Excel from Matlab on Mac/Win (https://www.mathworks.com/matlabcentral/fileexchange/37560-xlwrite-export-data-to-excel-from-matlab-on-mac-win), MATLAB Central File Exchange. Retrieved August 20, 2024.
